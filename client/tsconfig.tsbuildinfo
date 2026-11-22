@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/client.ts","./src/components/appointmentform.tsx","./src/components/appointmentlist.tsx","./src/components/businessinfo.tsx","./src/components/navbar.tsx","./src/components/ownerlogin.tsx","./src/components/servicesection.tsx","./src/types/api.ts"],"version":"5.9.3"}
