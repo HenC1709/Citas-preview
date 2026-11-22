@@ -1,4 +1,4 @@
-#Potenciado por IA
+# Potenciado por IA
 
 # Reservacion — Esqueleto en .NET 10 y C# 14
 
