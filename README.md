@@ -1,3 +1,5 @@
+#Potenciado por IA
+
 # Reservacion — Esqueleto en .NET 10 y C# 14
 
 Esqueleto base para una API genérica de reservación de citas construida con **.NET 10**, **C# 14**, **Clean Architecture** y **principios SOLID**, pensado con un nivel intermedio: limpio, directo y fácil de extender sin sobreingeniería.
